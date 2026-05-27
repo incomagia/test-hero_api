@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Batman",
+    "appearance": {
+      "gender": "Male",
+      "height": ["6'2", "188 cm"]
+    },
+    "work": {
+      "occupation": "Businessman"
+    }
+  },
+  {
+    "name": "Superman",
+    "appearance": {
+      "gender": "Male",
+      "height": ["6'3", "191 cm"]
+    },
+    "work": {
+      "occupation": "Reporter"
+    }
+  },
+  {
+    "name": "Wonder Woman",
+    "appearance": {
+      "gender": "Female",
+      "height": ["6'0", "183 cm"]
+    },
+    "work": {
+      "occupation": "Warrior"
+    }
+  },
+  {
+    "name": "Storm",
+    "appearance": {
+      "gender": "Female",
+      "height": ["5'11", "180 cm"]
+    },
+    "work": {
+      "occupation": "-"
+    }
+  },
+  {
+    "name": "Hulk",
+    "appearance": {
+      "gender": "Male",
+      "height": ["8'0", "244 cm"]
+    },
+    "work": {
+      "occupation": "-"
+    }
+  },
+  {
+    "name": "She-Hulk",
+    "appearance": {
+      "gender": "Female",
+      "height": ["6'7", "201 cm"]
+    },
+    "work": {
+      "occupation": "Lawyer"
+    }
+  },
+  {
+    "name": "Mystique",
+    "appearance": {
+      "gender": "Female",
+      "height": ["5'10", "178 cm"]
+    },
+    "work": {
+      "occupation": ""
+    }
+  },
+  {
+    "name": "Drax",
+    "appearance": {
+      "gender": "Male",
+      "height": ["6'4", "193 cm"]
+    },
+    "work": {
+      "occupation": null
+    }
+  },
+  {
+    "name": "Giganta",
+    "appearance": {
+      "gender": "Female",
+      "height": ["62'0", "1890 cm"]
+    },
+    "work": {
+      "occupation": "Criminal"
+    }
+  },
+  {
+    "name": "Unknown Hero",
+    "appearance": {
+      "gender": "Male",
+      "height": ["-", "0 cm"]
+    },
+    "work": {
+      "occupation": "-"
+    }
+  }
+]
