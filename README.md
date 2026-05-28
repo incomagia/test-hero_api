@@ -127,6 +127,3 @@ pytest -v
 * pytest
 * requests
 * JSON
-
-```
-```
