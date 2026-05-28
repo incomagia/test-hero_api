@@ -1,14 +1,14 @@
 {
-    "name": "Giganta",
+    "name": "Superman",
     "appearance": {
-        "gender": "Female",
+        "gender": "Male",
         "height": [
-            "62'0",
-            "1890 cm"
+            "6'3",
+            "191 cm"
         ]
     },
     "work": {
-        "occupation": "Criminal"
+        "occupation": "Reporter"
     },
-    "height_cm": 1890
+    "height_cm": 191
 }
