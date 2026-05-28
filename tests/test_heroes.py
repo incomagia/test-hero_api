@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+from src.heroes import get_tallest_hero
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = PROJECT_ROOT / "tests" / "data" / "loaded.json"
@@ -65,6 +66,13 @@ def test_at_least_one_male_hero_exists():
 
     assert len(males) > 0
 
-def test_data_IS_empty():
+"""
+    def test_data_is_empty():
     data = load_data()
     assert len(data) == 0
+"""
+
+def test_wrong_gender():
+    result = get_tallest_hero("Alien", True)
+
+    assert result is None

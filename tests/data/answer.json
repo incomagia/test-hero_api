@@ -1,0 +1,14 @@
+{
+    "name": "Giganta",
+    "appearance": {
+        "gender": "Female",
+        "height": [
+            "62'0",
+            "1890 cm"
+        ]
+    },
+    "work": {
+        "occupation": "Criminal"
+    },
+    "height_cm": 1890
+}
